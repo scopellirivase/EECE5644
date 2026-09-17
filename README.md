@@ -10,3 +10,4 @@ git commit
 git remote add origin https://github.com/scopellirivase/EECE5644.git
 git branch -M main
 git push -u origin main
+git pull origin main
